@@ -25,6 +25,7 @@ footer{
     font-weight: 500;
     color: #bdbdbd;
     margin-top: 15%;
+    text-align: center;
 }
 
 footer a {
@@ -49,6 +50,7 @@ h2{
 
 img{
     margin: 6.12%;
+    width: 100%;
 }
 
 main{
@@ -65,5 +67,18 @@ p{
 }
 
 
+@media (min-width: 1024px){
+    main {
+        flex-direction: row;
+        align-items: center;
+    }
 
+    h2{
+        font-size: 4.57em;/*64px*/
+    }
+
+    p{
+        font-size: 1.71em;/*24px*/
+    }
+}
 
