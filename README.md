@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-page-jet.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://github.com/pablomalave/404-not-found-page.git}">
       Solution
     </a>
     <span> | </span>
@@ -36,20 +36,26 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<img src="images\screenshoot.png" alt="screenshoot" >
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This project consists of a web page that shows the response of a web server to a request that returns a 404 Error.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+A Responsive Design was made in two sizes: Mobile (up to 1024px wide) and Desktop.
+
+The original challenge design proposed by [DevChallenges] (https://devchallenges.io/challenges) had the following modifications:
+
+- Background Color: Dark Desaturated Blue hsl(228, 28%, 20%)
+- Font Color: White.
+- Scarecrow image replaced by a Robot image taken from [Freepik.com] (http://www.freepik.com).
+- Button Hover Effect: changes to color # fba746.
+- Links in color # fba746.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - HTML, CSS.
+- Responsive Design.
 - Mobile First Design.
 
 ## Features
@@ -64,9 +70,11 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Freepik.com](http://www.freepik.com)
+- [Vercel](https://bit.ly/fem-vercel)
 
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [Pablo Malave - GithubPages](https://pablomalave.github.io/CV/)
 - GitHub [@pablomalave](https://github.com/pablomalave)
