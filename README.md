@@ -42,11 +42,11 @@ This project consists of a web page that shows the response of a web server to a
 
 A Responsive Design was made in two sizes: Mobile (up to 1024px wide) and Desktop.
 
-The original challenge design proposed by [DevChallenges] (https://devchallenges.io/challenges) had the following modifications:
+The original challenge design proposed by [DevChallenges](https://devchallenges.io/challenges) had the following modifications:
 
 - Background Color: Dark Desaturated Blue hsl(228, 28%, 20%)
 - Font Color: White.
-- Scarecrow image replaced by a Robot image taken from [Freepik.com] (http://www.freepik.com).
+- Scarecrow image replaced by a Robot image taken from [Freepik.com](http://www.freepik.com).
 - Button Hover Effect: changes to color # fba746.
 - Links in color # fba746.
 
